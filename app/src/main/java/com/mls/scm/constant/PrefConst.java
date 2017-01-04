@@ -1,0 +1,42 @@
+package com.mls.scm.constant;
+
+public class PrefConst {
+    public static final String PREFERENCE_FILENAME = "scm_preference";
+    public static final String PRE_ISFIRST = "pre_isfirst";
+    public static final String PRE_USER_NAME = "pre_user_name";
+    public static final String PRE_USER_NO = "pre_user_no";
+    public static final String PRE_USER_GENDER = "pre_user_dender";
+    public static final String PHONE_CALL= "pre_area";
+    public static final String PRE_USER_CITY = "pre_user_city";
+    public static final String PRE_USER_NOW_CITY = "pre_user_now_city";
+    public static final String PRE_AREA = "pre_area";
+    public static final String PRE_USER_ID = "pre_user_id";
+    public static final String PRE_NICKNAME = "pre_user_nickname";
+    public static final String PRE_USER_INFO = "pre_user_info";
+    public static final String PRE_HOME_INFO = "pre_home_info";
+    public static final String PRE_SMS_CODE = "pre_sms_code";
+    public static final String PRE_BLANCE = "pre_blance";
+    public static final String PRE_USER_AUTH = "pre_user_auth";
+    public static final String PRE_USER_STATUS = "pre_user_status";
+    public static final String PRE_CAR_AUTH = "pre_car_auth";
+    public static final String PRE_REAL_NAME_STATUS = "pre_real_name_status";
+    public static final String PRE_REALNAME = "pre_realname";
+    public static final String PRE_HOST = "pre_host";
+    public static final String PRE_LAT = "pre_lat";
+    public static final String PRE_LONG = "pre_long";
+    public static final String PRE_USER_WORD = "pre_user_word";
+    public static final String PRE_lOGIN_RESPONSE = "pre_login_respose";
+    public static final String PRE_USER_TOKEN = "pre_user_token";
+    public static final String PRE_USER_ID_CARD = "pre_user_id_card";
+    public static final String PRE_DEFAULTINVOICE = "pre_defaultinvoice";
+    public static final String PRECOMPANYNAME = "pre_commpany_name";
+    public static final String PRE_SCREEN_HEIGHT = "pre_screen_height";
+    public static final String PRE_SCREEN_WIDTH = "pre_screen_width";
+    public static final String PRE_STATUS_BAR_HEIGHT = "pre_status_bar_height";
+    public static final String PRE_TOKEN = "pre_token";
+    public static final String PRE_SEARCH_CONTENT = "pre_search_content";
+    public static final String PRE_USER_LOGO = "pre_user_logo";
+    public static final String PRE_IS_ONE = "pre_is_one";
+    public static final String PRE_CURRENT_VERSION_CODE = "pre_current_Version_code";
+    public static final String PRE_CURRENT_ISCOLLECTION = "iscollection";
+}
